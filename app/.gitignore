@@ -1,0 +1,9 @@
+build
+dist
+.next
+*.log
+node_modules
+.DS_STORE
+stats.json
+
+.vercel
